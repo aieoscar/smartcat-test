@@ -2,7 +2,7 @@
 
 ![](assets/icon.png)
 
-Welcome To **FoonieM** Dev Team, Lets Enjoy and Works Together \~ 🍻\
+Welcome To **Foonie** Dev Team, Lets Enjoy and Works Together \~ 🍻\
 [**Checkout ONBOARD if you are new »**](./#onboard-🚸)\
 
 
