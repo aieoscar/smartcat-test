@@ -10,3 +10,4 @@ goood good goodd
 * b
 * c
 
+[htps://google.<mark style="color:red;">com</mark>](htps://google.com)
