@@ -5,3 +5,4 @@
 * [legacy](legacy/README.md)
   * [General](legacy/General.md)
   * [Source Code Management](legacy/SourceCodeManagement.md)
+* [localized/zh-Hans/README.md](localized/zh-Hans/README.md)
