@@ -1,6 +1,6 @@
 # README
 
-![](./assets/icon.png)
+![](/assets/icon.png)
 
 HELLO~
 
@@ -75,7 +75,7 @@ Before start working, please check you can access:
 
 **How to manage your assana task**
 
-![](./assets/how-to-manage-asana-task.png)
+![](/assets/how-to-manage-asana-task.png)
 
 [click to open](https://docs.google.com/drawings/d/1F\_9vf3WsgswAtaLhCsWxztwPZ8EqpLZHsFxb5gAj2D4/edit)
 
@@ -100,13 +100,13 @@ Before start working, please check you can access:
 
 **How we define our product environments**
 
-![](./assets/how-we-separate-branch.png)
+![](/assets/how-we-separate-branch.png)
 
 [click to open](https://docs.google.com/drawings/d/1BohxnPhz0b4sRSY3t7DBokxDbFt16IUkB7ZCCF9eN6g/edit)
 
 **What should I do if I want to implement new feature?**
 
-![](./assets/how-to-manage-feature-branch.png)
+![](/assets/how-to-manage-feature-branch.png)
 
 [click to open](https://docs.google.com/drawings/d/1GwBzSknZZZTsK99Lj\_371HR4VRQVxHyM9Fxk7\_RdrXc/edit)
 
@@ -120,7 +120,7 @@ dev/tim/implement-planet-detail-page
 
 **What can I do if I need to hotfix?**
 
-![](./assets/how-to-manage-hotfix.png)
+![](/assets/how-to-manage-hotfix.png)
 
 [click to open](https://docs.google.com/drawings/d/1--0Lgkp300QKrbETrcc5rGUjp4J\_vUdCEr07yOeIji0/edit)
 
@@ -134,7 +134,7 @@ dev/tim/fix-planet-detail-page-missing-title
 
 **What should I do if i want to prepare a stable release?**
 
-![](./assets/how-to-manage-release-branch.png)
+![](/assets/how-to-manage-release-branch.png)
 
 [click to open](https://docs.google.com/drawings/d/1vdNqGAMuwYz1zrR\_uQyFp9yuBnQXoTRavKI88bKQSyU/edit)
 

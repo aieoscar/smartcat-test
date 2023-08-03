@@ -6,7 +6,7 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 
 # 自述文件 {#readme}
 
-![](./assets/icon.png)
+![](/assets/icon.png)
 
 欢迎加入**Foonie**开发团队，让我们一起享受和工作吧 \~ 🍻\
 [**如果您是新手，请查看 ONBOARD »**](./#onboard-🚸)\
@@ -80,7 +80,7 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 
 **如何管理你的体式任务**
 
-![](./assets/how-to-manage-asana-task.png)
+![](/assets/how-to-manage-asana-task.png)
 
 [点击打开](https://docs.google.com/drawings/d/1F_9vf3WsgswAtaLhCsWxztwPZ8EqpLZHsFxb5gAj2D4/edit)
 
@@ -107,13 +107,13 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 
 **我们如何定义我们的产品环境**
 
-![](./assets/how-we-separate-branch.png)
+![](/assets/how-we-separate-branch.png)
 
 [点击打开](https://docs.google.com/drawings/d/1BohxnPhz0b4sRSY3t7DBokxDbFt16IUkB7ZCCF9eN6g/edit)
 
 **如果我想实现新功能该怎么办？**
 
-![](./assets/how-to-manage-feature-branch.png)
+![](/assets/how-to-manage-feature-branch.png)
 
 [点击打开](https://docs.google.com/drawings/d/1GwBzSknZZZTsK99Lj_371HR4VRQVxHyM9Fxk7_RdrXc/edit)
 
@@ -129,7 +129,7 @@ dev/tim/implement-planet-detail-page
 
 **如果需要热修复怎么办？**
 
-![](./assets/how-to-manage-hotfix.png)
+![](/assets/how-to-manage-hotfix.png)
 
 [点击打开](https://docs.google.com/drawings/d/1--0Lgkp300QKrbETrcc5rGUjp4J_vUdCEr07yOeIji0/edit)
 
@@ -145,7 +145,7 @@ dev/tim/修复行星详细信息页面缺失标题
 
 **如果我想准备稳定版本应该怎么做？**
 
-![](./assets/how-to-manage-release-branch.png)
+![](/assets/how-to-manage-release-branch.png)
 
 [点击打开](https://docs.google.com/drawings/d/1vdNqGAMuwYz1zrR_uQyFp9yuBnQXoTRavKI88bKQSyU/edit)
 
