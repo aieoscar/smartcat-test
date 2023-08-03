@@ -1,7 +1,8 @@
-# README123
+# README 123
 
 ![](assets/icon.png)
 
+HELLO~
 Welcome To **Foonie** Dev Team, Lets Enjoy and Works Together \~ 🍻\
 [**Checkout ONBOARD if you are new »**](./#onboard-🚸)\
 
