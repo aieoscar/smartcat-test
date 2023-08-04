@@ -1,11 +1,12 @@
 # README
 
-![](.gitbook/assets/icon.png)
+![](./assets/icon.png)
 
-HELLO\~
+HELLO~
 
 Welcome To **Foonie** Dev Team, Lets Enjoy and Works Together \~ 🍻\
-[**Checkout ONBOARD if you are new »**](./#onboard-🚸)\\
+[**Checkout ONBOARD if you are new »**](./#onboard-🚸)\
+
 
 ### Portal 🚀
 
@@ -44,7 +45,7 @@ Before start working, please check you can access:
 * Slack
   * sometimes we use it, depends
   * suggest use company gmail
-  * join workspace [ApeironBV](../apeironbv.slack.com)
+  * join workspace [ApeironBV](apeironbv.slack.com)
 * Github
   * our code goes [here](https://github.com/FoonieMagus)
   * please use company gmail
@@ -61,7 +62,7 @@ Before start working, please check you can access:
   * try our [playground](https://api-marketpl-dev.apeironnft.com/graphiql)
   * feel free to try it out
 * Kibana
-  * check server log goes [here](../\(http:/18.136.241.0:9200/\_plugin/kibana/app/discover/#/?\_g=\(filters:!\(\),refreshInterval:\(pause:!t,value:0\),time:\(from:now-15m,to:now\)\)&\_a=\(columns:!\(method,path,level,msg,log\),filters:!\(\),index:f2e35880-e158-11ec-9337-6936773e9fcd,interval:auto,query:\(language:kuery,query:''\),sort:!\(\)\)\)) (debug)
+  * check server log goes [here](\(http:/18.136.241.0:9200/\_plugin/kibana/app/discover/#/?\_g=\(filters:!\(\),refreshInterval:\(pause:!t,value:0\),time:\(from:now-15m,to:now\)\)&\_a=\(columns:!\(method,path,level,msg,log\),filters:!\(\),index:f2e35880-e158-11ec-9337-6936773e9fcd,interval:auto,query:\(language:kuery,query:''\),sort:!\(\)\)\)) (debug)
   * you may need access on it, depends
 
 ### Workflow 🎢
@@ -74,7 +75,7 @@ Before start working, please check you can access:
 
 **How to manage your assana task**
 
-![](.gitbook/assets/how-to-manage-asana-task.png)
+![](./assets/how-to-manage-asana-task.png)
 
 [click to open](https://docs.google.com/drawings/d/1F\_9vf3WsgswAtaLhCsWxztwPZ8EqpLZHsFxb5gAj2D4/edit)
 
@@ -99,13 +100,13 @@ Before start working, please check you can access:
 
 **How we define our product environments**
 
-![](.gitbook/assets/how-we-separate-branch.png)
+![](./assets/how-we-separate-branch.png)
 
 [click to open](https://docs.google.com/drawings/d/1BohxnPhz0b4sRSY3t7DBokxDbFt16IUkB7ZCCF9eN6g/edit)
 
 **What should I do if I want to implement new feature?**
 
-![](.gitbook/assets/how-to-manage-feature-branch.png)
+![](./assets/how-to-manage-feature-branch.png)
 
 [click to open](https://docs.google.com/drawings/d/1GwBzSknZZZTsK99Lj\_371HR4VRQVxHyM9Fxk7\_RdrXc/edit)
 
@@ -119,7 +120,7 @@ dev/tim/implement-planet-detail-page
 
 **What can I do if I need to hotfix?**
 
-![](.gitbook/assets/how-to-manage-hotfix.png)
+![](./assets/how-to-manage-hotfix.png)
 
 [click to open](https://docs.google.com/drawings/d/1--0Lgkp300QKrbETrcc5rGUjp4J\_vUdCEr07yOeIji0/edit)
 
@@ -133,7 +134,7 @@ dev/tim/fix-planet-detail-page-missing-title
 
 **What should I do if i want to prepare a stable release?**
 
-![](.gitbook/assets/how-to-manage-release-branch.png)
+![](./assets/how-to-manage-release-branch.png)
 
 [click to open](https://docs.google.com/drawings/d/1vdNqGAMuwYz1zrR\_uQyFp9yuBnQXoTRavKI88bKQSyU/edit)
 
