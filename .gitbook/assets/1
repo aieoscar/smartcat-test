@@ -1,0 +1,14 @@
+{
+	"name": "Primal Core",
+	"description": "It is the Primal core",
+	"external_url": "https://mint.apeironnft.com/",
+	"image": "https://nftprops.apeironnft.com/planetartworks/Primal_Core.jpg",
+	"type": "planet",
+	"itemId": "1",
+	"attributes": [
+		{
+			"trait_type": "Rarity",
+			"value": "Godly"
+		}
+	]
+}
